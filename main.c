@@ -1,5 +1,7 @@
+#include <iostream>
+
 int main()
 {
-    printf("Hello, Wodarld8 2!\n");
+    std::cout << "Hello, World! This is versioned by Release Please." << std::endl;
     return 0;
 }
